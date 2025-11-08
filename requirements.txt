@@ -1,0 +1,22 @@
+# Core LangChain packages
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-huggingface>=0.1.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-chroma>=0.1.0
+
+# LangGraph for stateful workflows
+langgraph>=0.2.0
+
+# Vector database (used by langchain-chroma)
+chromadb>=0.5.0
+
+# Typing support and general utilities
+typing-extensions>=4.9.0
+
+# Environment variable handling
+python-dotenv>=1.0.0
+
+openai>=1.0.0
+huggingface-hub>=0.22.0
